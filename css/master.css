@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+    @font-face {
+        font-family: "logo";
+        src: url("../font/PatrickHand-Regular.ttf");
+    }
