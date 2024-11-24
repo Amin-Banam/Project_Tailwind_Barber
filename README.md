@@ -1,6 +1,6 @@
 # Project_Tailwind_Barber
 
-![viewfinal](sidebarmenu.png)
+![viewfinal](PRtailwind.png)
 
 - [Demo Project](https://amin-banam.github.io/Project_Tailwind_Barber/)
 
